@@ -1,12 +1,12 @@
 <div align = center>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Sungju&fontSize=50&animation=twinkling&descAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Soungju&fontSize=50&animation=twinkling&descAlignY=40)
 ### Technology Stack📚
 <span><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/><span>
 <span><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/><span>
 <span><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/><span></br>
 <span><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a></span>
-<span><img src="https://img.shields.io/badge/Kotlin-#7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/></a></span>
+<span><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/></a></span>
 <span><img src ="https://img.shields.io/badge/Java-647104?style=flat-square&logo=Java&logoColor=white"/></span>
   
 ### 🌱 I’m currently learning
