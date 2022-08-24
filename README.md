@@ -23,11 +23,11 @@
   ![Figma](http://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&-->
 
 ### 📞 CONTACT
-<a href="mailto:yong10241103@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=gesongju574@gmail.com"/></a>
-<a href="mailto:rhdydqls1024@naver.com"><img src="https://img.shields.io/badge/Naver-69e373?style=flat-square&logo=Naver&logoColor=white&link=sjkim0977@naver.com"/></a>
+<a href="mailto:gseongju574@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=gesongju574@gmail.com"/></a>
+<a href="mailto:sjkim0977@naver.com"><img src="https://img.shields.io/badge/Naver-69e373?style=flat-square&logo=Naver&logoColor=white&link=sjkim0977@naver.com"/></a>
 <a href="https://www.instagram.com/sungju_0_5"><img src="https://img.shields.io/badge/Instagram-a640a4?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/sungju_0_5"/></a>
 
-![Sswmhskr06ksj's github stats](https://github-readme-stats.vercel.app/api?username=Sswmhskr06ksj&theme=vue&show_icons=true&hide_border=true)
+![Seongju-05's github stats](https://github-readme-stats.vercel.app/api?username=Sswmhskr06ksj&theme=vue&show_icons=true&hide_border=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sswmhskr06ksj&theme=vue&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)<br>
       
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&reversal=false&section=footer)
